@@ -1,4 +1,4 @@
-<img width="438" height="104" alt="image" src="https://github.com/user-attachments/assets/f5bcdbf5-6a4a-4dfb-bf79-1d4ecb28079e" /><img width="1119" height="224" alt="image" src="https://github.com/user-attachments/assets/2c5635e6-3e2f-4ad6-884c-bef3ee71e59b" /># Sales-Dashboard
+
 Sales Dashboard Analysis for the Bajaj Finance Limited.
 
 Data Summary:
